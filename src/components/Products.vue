@@ -60,7 +60,7 @@
 
     <v-img
       height="250"
-      src="product.propertyImage"
+      :src="product.propertyImage"
       cover
     ></v-img>
 
